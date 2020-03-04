@@ -2,6 +2,8 @@
 main:
   - title: "category"
     url: /categories/
+  - title: "main page"
+    url: https://chanwoo99.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
