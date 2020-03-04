@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chanwoo Moon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile.jpg"
   bio              : "a novice computer engineer"
   location         : "Korea/Daegu"
   email            : "ixora99@dgist.ac.kr"
