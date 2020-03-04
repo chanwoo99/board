@@ -2,7 +2,7 @@
 main:
   - title: "category"
     url: /categories/
-  - title: "main page"
+  - title: "main site"
     url: https://chanwoo99.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
