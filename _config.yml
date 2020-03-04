@@ -112,22 +112,7 @@ author:
   bio              : "a novice computer engineer"
   location         : "Korea/Daegu"
   email            : "ixora99@dgist.ac.kr"
-  links:
-    - label: "Emailr"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ixora99@dgist.ac.kr
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      "https://chanwoo99.github.io"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/profile.php?id=100005271915907"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chanwoo99"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/cold_rain_99/"
+
 
 # Site Footer
 footer:
@@ -285,7 +270,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
